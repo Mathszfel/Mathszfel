@@ -30,7 +30,11 @@
 ### Meu histórico de commits (GitHub Snake)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathszmx&show_icons=true&theme=dark_green&count_private=true&hide_border=true" alt="GitHub Snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mathszmx&show_icons=true&theme=dark_green&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mathszfel/Mathszfel/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -56,7 +60,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Mathszfel/mathszfel/output/snake.svg" alt="Snake animation" />
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:0b3d2e&height=120&section=footer"/>
