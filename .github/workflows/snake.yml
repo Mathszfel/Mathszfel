@@ -1,21 +1,7 @@
 <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
-Snake.yml:
+Sbake.yml:
 name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - master
-
-jobs:
-  ...
-
 
 on:
   schedule: # execute every 12 hours
