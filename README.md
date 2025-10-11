@@ -27,14 +27,10 @@
 
 ---
 
-### Meu histórico de commits (GitHub Snake)
+### Meu histórico de commits
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathszmx&show_icons=true&theme=dark_green&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mathszfel/Mathszfel/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -58,6 +54,14 @@
   <a href="https://steamcommunity.com/id/mathszmelsz/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### GitHub Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Mathszfel/Mathszfel/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
 </p>
 
 ---
