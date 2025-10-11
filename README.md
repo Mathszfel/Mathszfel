@@ -61,7 +61,7 @@
 ### GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Mathszfel/Mathszfel/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+  <img src="https://github.com/Mathszfel/mathszfel/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
 </p>
 
 ---
